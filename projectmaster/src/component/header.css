@@ -1,0 +1,12 @@
+
+.bg{
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+
+}
+.head{
+    font-family: 'Ephesis', cursive;
+    font-weight: bolder;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: antiquewhite;
+}
